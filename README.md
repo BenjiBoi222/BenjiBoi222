@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 Current work: TridevShell<br>👯 I’m looking to collaborate on JS-Fun-Projects<br>>🌱 I’m currently learning [.js, node.js, API]<br>💬 Ask me about C#<br>⚡ Fun fact: I always learn by taking on projects, that I have no knowledge on
+🔭 Current work: TridevShell<br>👯 I’m looking to collaborate on JS-Fun-Projects<br>🌱 I’m currently learning: .js node.js, API<br>⚡ Fun fact: I always learn by taking on projects, that I have no knowledge on
 
 
 # 💻 Tech Stack:
