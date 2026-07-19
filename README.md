@@ -2,41 +2,32 @@
 # BenjiBoi222's Profile
 
 ```text
-    .                       ... ...   .':c::c::,......   benjiboi@developer ------------------------
-                            .....';,,,,;::;,'..          . OS: ...................... Windows 10, Arch
-                            .'''.';;;;,....              . Host: .......................... TridevShell
-                            .'','.....                   . Role: .................. Junior Web/C# Dev
-           ........         .,,;,.                       . Learning: ............. Node.js, REST APIs
-         ............      .',,'.                        .
-        ....''''......     .''.        .......'''''''    . Languages.Programming: .. JavaScript, C#, PHP
-        ....',,,'.....     ..       ..';:cccccccccccc    . Languages.Markup/Style: ........ HTML5, CSS3
-         ....'''......         ..  .':cclllllllllllll    . Frameworks/Libs: .NET, Bootstrap, Electron
-          ...........  ..   ...,.  .:llllllooooooooool   .
-           ........    .   ..,;:' .'collloooooodddddo    - Preferences -----------------------------
-                       .  ...''.. .,looooooooooooooo     . Collaboration: ......... JS-Fun-Projects
-                                  .:oooooddddddddooo     . Fun Fact: ... I learn by jumping into the
-..                     .          .cooooodddddxxxddd     .               deep end with no knowledge!
-:.                .,,,'.          .lddolllcccccccccc     .
-.                 .;;;'.          .;cc:;::;;;;;;:ccc     - Ecosystem -------------------------------
-            ............      ..  'lollllollcc:::cll     . Databases: .............. MySQL, Firebase
-      ....''',;::;,,,'..      .. .cdoddolcc:,'.',;:c     . Infrastructure: Cloudflare, DigitalOcean, Nginx
- ....',,,''..';;;,,,;;,.      .. 'ododxdollllc:::cll     . Tools/Design: ........ Git, GitHub, Figma
-,,'.......'',,;;;,,;;;,.   .. . .,ddodxxxxxdddoooodo     .
-'.........',,;;::;;,,,,.   .. . .;dxddxxxxkkxxxxxxdl     - Contact ---------------------------------
-............,;::;;;,','..  .. . .;dxkxxxxddddddddolc     . Email: .......... ben@example.com
-'.............,;;;,'',,..  ..   .,dxkkkOOOOkkkxxollo     . LinkedIn: .......... /in/yourusername
-'...... ..........'.',,,,'.      ;dxkkkkOOOOOkxddddd     . Discord: .................. yourhandle
-........ ............''',,,..  ..cxxxxkkkOOkkxdoooll
-....''.... ............'''',,,.',,cdxxxxkkkkxddolc:;;:clol;',;:llooooool;               Repos:   14
-.'',,,,,'.........'''';,'',,,.',;;ldxxxxkxdolllcccccclcll:;;,;;;cloollc'                Stars:   25
-..''',,,,'.......'',',;,'.','.';;,;ldddxxxdlloollcccccccc::ccc;,,:llcc,                 Commits: 312
-''''',,',,'.......''',,,'...'.';,,,;cooddddddoolllllcccc::::::c::cccc,.
-....'',,,,,'.. ...',,''.''....',,,,,:lloodddddddoooollllllcccccccc:;'
-......',,,'....  ..............,,,,,:lollooooooooooooolllllcccc:::,.
-...............  ........'.....',,,,:looolllloooodddoolllcccc::;::.
-......       ....  ......... .....';clooool::clooooooolllcc::;;;cc'
-.....       ......         .. ....;:clooodol:;;:clllccllcc:;;;:ccc;'.
-
+```text
+benjiboi@developer -----------------------------------------------------------------------------
+. OS: .......................................................................... Windows 10, Arch
+. Host: ............................................................................. TridevShell
+. Role: .................................................................... Junior Web / C# Dev
+. Learning: ............................................................... Node.js, REST APIs
+.
+. Languages.Programming: ................................................. JavaScript, C#, PHP
+. Languages.Markup/Style: ....................................................... HTML5, CSS3
+. Frameworks/Libs: ............................................... .NET, Bootstrap, Electron
+.
+- Preferences ----------------------------------------------------------------------------------
+. Collaboration: ............................................................. JS-Fun-Projects
+. Fun Fact: ........................................... I learn by jumping into the deep end!
+.                                                       (Taking on projects with 0 knowledge)
+.
+- System & Ecosystem ---------------------------------------------------------------------------
+. Databases/Backend: ........................................................ MySQL, Firebase
+. Infrastructure: ............................................. Cloudflare, DigitalOcean, Nginx
+. Tools/Design: .......................................................... Git, GitHub, Figma
+.
+- Contact --------------------------------------------------------------------------------------
+. Email: ................................................................. email@example.com
+. LinkedIn: .................................................................. /in/username
+. Discord: ................................................................... username
+```
 # 💻 Technology Ecosystem
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
